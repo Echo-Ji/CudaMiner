@@ -1,0 +1,462 @@
+	   *** CudaMiner for nVidia GPUs by Christian Buchner ***
+	             This is version 2014-02-28 (beta)
+	based on pooler-cpuminer 2.3.2 (c) 2010 Jeff Garzik, 2012 pooler
+	    Cuda additions Copyright 2013,2014 Christian Buchner
+	  LTC donation address: LKS1WDKGED647msBQfLBHV3Ls8sveGncnm
+	  BTC donation address: 16hJF5mceSojnTD3ZTUDqdRhDyPJzoRakM
+	  YAC donation address: Y87sptDEcpLkLeAuex6qZioDbvy1qXZEj4
+[2018-03-28 16:04:04] NVML GPU monitoring is not available.
+[2018-03-28 16:04:04] Starting Stratum on stratum+tcp://stratum.f2pool.com:8888
+[2018-03-28 16:04:04] 2 miner threads started, using 'scrypt' algorithm.
+[2018-03-28 16:04:04] Stratum detected new block
+[2018-03-28 16:04:07] GPU #1: Tesla P100-PCIE-16GB with compute capability 6.0
+[2018-03-28 16:04:07] GPU #1: the 'T' kernel ignores the texture cache argument
+[2018-03-28 16:04:07] GPU #1: interactive: 0, tex-cache: 0 , single-alloc: 0
+[2018-03-28 16:04:07] GPU #1: 32 hashes / 4.0 MB per warp.
+[2018-03-28 16:04:07] GPU #0: Tesla P100-PCIE-16GB with compute capability 6.0
+[2018-03-28 16:04:07] GPU #0: the 'T' kernel ignores the texture cache argument
+[2018-03-28 16:04:07] GPU #0: interactive: 0, tex-cache: 0 , single-alloc: 0
+[2018-03-28 16:04:07] GPU #0: 32 hashes / 4.0 MB per warp.
+[2018-03-28 16:04:08] GPU #1: using launch configuration T111x14
+[2018-03-28 16:04:08] GPU #0: using launch configuration T111x14
+[2018-03-28 16:04:08] GPU #1: Tesla P100-PCIE-16GB, 1404 khash/s
+[2018-03-28 16:04:08] GPU #0: Tesla P100-PCIE-16GB, 1491 khash/s
+[2018-03-28 16:04:29] Stratum detected new block
+[2018-03-28 16:04:29] GPU #0: Tesla P100-PCIE-16GB, 1463 khash/s
+[2018-03-28 16:04:29] GPU #1: Tesla P100-PCIE-16GB, 1464 khash/s
+[2018-03-28 16:05:29] GPU #0: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:05:29] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:06:28] Stratum detected new block
+[2018-03-28 16:06:28] GPU #0: Tesla P100-PCIE-16GB, 1462 khash/s
+[2018-03-28 16:06:28] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:07:15] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:07:15] accepted: 1/1 (100.00%), 2929 khash/s (yay!!!)
+[2018-03-28 16:07:29] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:07:32] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 16:07:32] accepted: 2/2 (100.00%), 2919 khash/s (yay!!!)
+[2018-03-28 16:08:03] Stratum detected new block
+[2018-03-28 16:08:03] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:08:03] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:08:10] Stratum detected new block
+[2018-03-28 16:08:10] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:08:10] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:08:13] Stratum detected new block
+[2018-03-28 16:08:13] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 16:08:13] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:08:18] Stratum detected new block
+[2018-03-28 16:08:18] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:08:18] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:08:30] Stratum detected new block
+[2018-03-28 16:08:30] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:08:30] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 16:08:54] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:08:54] accepted: 3/3 (100.00%), 2920 khash/s (yay!!!)
+[2018-03-28 16:09:07] Stratum detected new block
+[2018-03-28 16:09:07] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:09:07] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:09:32] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:09:32] accepted: 4/4 (100.00%), 2919 khash/s (yay!!!)
+[2018-03-28 16:09:36] Stratum detected new block
+[2018-03-28 16:09:36] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:09:36] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:09:41] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:09:41] accepted: 5/5 (100.00%), 2913 khash/s (yay!!!)
+[2018-03-28 16:09:43] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:09:43] accepted: 6/6 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:10:06] Stratum detected new block
+[2018-03-28 16:10:06] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:10:06] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:10:08] Stratum detected new block
+[2018-03-28 16:10:08] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:10:08] GPU #0: Tesla P100-PCIE-16GB, 1455 khash/s
+[2018-03-28 16:10:09] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:10:09] accepted: 7/7 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:11:08] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:11:09] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:11:35] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:11:35] accepted: 8/8 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:12:07] Stratum detected new block
+[2018-03-28 16:12:07] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:12:07] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:12:11] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:12:11] accepted: 9/9 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:12:30] Stratum detected new block
+[2018-03-28 16:12:30] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:12:30] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:13:21] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:13:21] accepted: 10/10 (100.00%), 2919 khash/s (yay!!!)
+[2018-03-28 16:13:30] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:13:30] Stratum detected new block
+[2018-03-28 16:13:30] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:13:30] GPU #0: Tesla P100-PCIE-16GB, 1457 khash/s
+[2018-03-28 16:13:33] Stratum detected new block
+[2018-03-28 16:13:33] GPU #0: Tesla P100-PCIE-16GB, 1454 khash/s
+[2018-03-28 16:13:33] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:14:33] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:14:33] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:14:49] Stratum detected new block
+[2018-03-28 16:14:49] GPU #0: Tesla P100-PCIE-16GB, 1455 khash/s
+[2018-03-28 16:14:49] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:15:32] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:15:33] accepted: 11/11 (100.00%), 2921 khash/s (yay!!!)
+[2018-03-28 16:15:49] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:15:50] accepted: 12/12 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:15:54] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:15:54] accepted: 13/13 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 16:16:03] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 16:16:03] accepted: 14/14 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 16:16:04] Stratum detected new block
+[2018-03-28 16:16:04] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:16:04] GPU #0: Tesla P100-PCIE-16GB, 1454 khash/s
+[2018-03-28 16:16:18] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:16:18] accepted: 15/15 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 16:16:25] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:16:25] accepted: 16/16 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:16:49] Stratum detected new block
+[2018-03-28 16:16:49] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:16:49] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:16:52] Stratum detected new block
+[2018-03-28 16:16:52] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:16:52] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 16:17:06] Stratum detected new block
+[2018-03-28 16:17:06] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:17:06] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 16:17:07] Stratum detected new block
+[2018-03-28 16:17:07] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:17:07] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:17:09] Stratum detected new block
+[2018-03-28 16:17:09] GPU #1: Tesla P100-PCIE-16GB, 1468 khash/s
+[2018-03-28 16:17:09] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:17:37] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:17:37] accepted: 17/17 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:18:08] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:18:08] accepted: 18/18 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:18:25] Stratum detected new block
+[2018-03-28 16:18:25] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:18:25] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:19:04] Stratum detected new block
+[2018-03-28 16:19:04] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:19:04] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:19:18] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:19:18] accepted: 19/19 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:20:04] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:20:15] Stratum detected new block
+[2018-03-28 16:20:15] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:20:15] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:20:17] Stratum detected new block
+[2018-03-28 16:20:17] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:20:17] GPU #1: Tesla P100-PCIE-16GB, 1468 khash/s
+[2018-03-28 16:20:54] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:20:55] accepted: 20/20 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 16:21:11] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:21:11] accepted: 21/21 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:21:23] Stratum detected new block
+[2018-03-28 16:21:23] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:21:23] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:21:41] Stratum detected new block
+[2018-03-28 16:21:41] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:21:41] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:22:41] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:22:41] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:23:41] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:23:41] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:24:41] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:24:41] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:25:02] Stratum detected new block
+[2018-03-28 16:25:02] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:25:02] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:25:08] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:25:09] accepted: 22/22 (100.00%), 2913 khash/s (yay!!!)
+[2018-03-28 16:25:52] Stratum detected new block
+[2018-03-28 16:25:52] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:25:52] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:26:24] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:26:24] accepted: 23/23 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 16:26:53] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:26:55] Stratum detected new block
+[2018-03-28 16:26:55] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:26:55] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:27:26] Stratum detected new block
+[2018-03-28 16:27:26] Stratum detected new block
+[2018-03-28 16:27:26] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:27:26] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:27:28] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:27:28] accepted: 24/24 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:28:12] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:28:12] accepted: 25/25 (100.00%), 2913 khash/s (yay!!!)
+[2018-03-28 16:28:28] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:28:38] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:28:39] accepted: 26/26 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:29:12] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:29:21] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:29:21] accepted: 27/27 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:29:34] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:29:35] accepted: 28/28 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:29:40] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:29:40] accepted: 29/29 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:30:16] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:30:16] accepted: 30/30 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:30:34] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:30:37] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:30:37] accepted: 31/31 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:30:43] GPU #1: Tesla P100-PCIE-16GB, 1461 khash/s
+[2018-03-28 16:30:43] accepted: 32/32 (100.00%), 2911 khash/s (yay!!!)
+[2018-03-28 16:30:43] GPU #1: Tesla P100-PCIE-16GB, 1463 khash/s
+[2018-03-28 16:30:44] accepted: 33/33 (100.00%), 2913 khash/s (yay!!!)
+[2018-03-28 16:30:57] Stratum detected new block
+[2018-03-28 16:30:57] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:30:57] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:31:05] Stratum detected new block
+[2018-03-28 16:31:05] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:31:05] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:31:14] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:31:14] accepted: 34/34 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:31:37] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:31:38] accepted: 35/35 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:31:41] GPU #1: Tesla P100-PCIE-16GB, 1464 khash/s
+[2018-03-28 16:31:58] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:31:58] accepted: 36/36 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:32:00] Stratum detected new block
+[2018-03-28 16:32:00] GPU #1: Tesla P100-PCIE-16GB, 1469 khash/s
+[2018-03-28 16:32:00] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:32:02] Stratum detected new block
+[2018-03-28 16:32:02] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:32:02] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:32:26] Stratum detected new block
+[2018-03-28 16:32:26] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:32:26] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:32:28] Stratum detected new block
+[2018-03-28 16:32:28] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:32:28] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:33:13] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:33:13] accepted: 37/37 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:33:28] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:34:13] GPU #1: Tesla P100-PCIE-16GB, 1464 khash/s
+[2018-03-28 16:34:28] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:34:29] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:34:29] accepted: 38/38 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:35:26] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:35:26] accepted: 39/39 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:35:28] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:35:34] Stratum detected new block
+[2018-03-28 16:35:34] GPU #0: Tesla P100-PCIE-16GB, 1443 khash/s
+[2018-03-28 16:35:34] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:35:34] Stratum detected new block
+[2018-03-28 16:35:34] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:35:34] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 16:35:52] Stratum detected new block
+[2018-03-28 16:35:52] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:35:52] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:36:03] Stratum detected new block
+[2018-03-28 16:36:03] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:36:04] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:36:08] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:36:08] accepted: 40/40 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:36:22] Stratum detected new block
+[2018-03-28 16:36:22] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:36:22] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:36:32] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:36:32] accepted: 41/41 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:36:34] Stratum detected new block
+[2018-03-28 16:36:34] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:36:34] GPU #1: Tesla P100-PCIE-16GB, 1469 khash/s
+[2018-03-28 16:37:31] Stratum detected new block
+[2018-03-28 16:37:31] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:37:31] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:37:54] Stratum detected new block
+[2018-03-28 16:37:54] GPU #0: Tesla P100-PCIE-16GB, 1446 khash/s
+[2018-03-28 16:37:54] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:37:55] Stratum detected new block
+[2018-03-28 16:37:55] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:37:55] GPU #1: Tesla P100-PCIE-16GB, 1459 khash/s
+[2018-03-28 16:38:54] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:38:55] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:38:55] Stratum detected new block
+[2018-03-28 16:38:55] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:38:55] GPU #1: Tesla P100-PCIE-16GB, 1464 khash/s
+[2018-03-28 16:39:02] Stratum detected new block
+[2018-03-28 16:39:02] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:39:02] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:39:23] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:39:23] accepted: 42/42 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:39:53] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:39:53] accepted: 43/43 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:40:18] Stratum detected new block
+[2018-03-28 16:40:18] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:40:18] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:40:34] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:40:36] accepted: 44/44 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:41:18] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:41:34] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:42:00] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:42:00] accepted: 45/45 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:42:01] Stratum detected new block
+[2018-03-28 16:42:01] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:42:01] GPU #1: Tesla P100-PCIE-16GB, 1463 khash/s
+[2018-03-28 16:42:54] Stratum detected new block
+[2018-03-28 16:42:54] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:42:54] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:43:24] Stratum detected new block
+[2018-03-28 16:43:24] GPU #0: Tesla P100-PCIE-16GB, 1446 khash/s
+[2018-03-28 16:43:24] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:43:47] Stratum detected new block
+[2018-03-28 16:43:47] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:43:47] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:43:48] Stratum detected new block
+[2018-03-28 16:43:48] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:43:48] GPU #0: Tesla P100-PCIE-16GB, 1445 khash/s
+[2018-03-28 16:44:16] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:44:16] accepted: 46/46 (100.00%), 2913 khash/s (yay!!!)
+[2018-03-28 16:44:35] Stratum detected new block
+[2018-03-28 16:44:35] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:44:35] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:44:36] Stratum detected new block
+[2018-03-28 16:44:36] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:44:37] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:45:18] Stratum detected new block
+[2018-03-28 16:45:18] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:45:18] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:46:01] Stratum detected new block
+[2018-03-28 16:46:01] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:46:01] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:46:06] Stratum detected new block
+[2018-03-28 16:46:06] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:46:06] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:47:06] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:47:06] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:47:16] Stratum detected new block
+[2018-03-28 16:47:16] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:47:16] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:47:17] Stratum detected new block
+[2018-03-28 16:47:17] GPU #1: Tesla P100-PCIE-16GB, 1468 khash/s
+[2018-03-28 16:47:17] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:47:45] Stratum detected new block
+[2018-03-28 16:47:45] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:47:45] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 16:48:01] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:48:01] accepted: 47/47 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:48:03] Stratum detected new block
+[2018-03-28 16:48:04] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:48:04] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:48:13] Stratum detected new block
+[2018-03-28 16:48:13] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:48:13] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:48:51] Stratum detected new block
+[2018-03-28 16:48:51] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:48:51] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:48:51] Stratum detected new block
+[2018-03-28 16:48:51] GPU #0: Tesla P100-PCIE-16GB, 1446 khash/s
+[2018-03-28 16:48:51] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:48:54] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:48:55] accepted: 48/48 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:49:42] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:49:43] accepted: 49/49 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:49:54] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:50:37] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:50:37] accepted: 50/50 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:50:54] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:51:14] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:51:14] accepted: 51/51 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:51:37] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:52:05] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:52:05] accepted: 52/52 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:52:23] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:52:23] accepted: 53/53 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 16:52:37] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:53:23] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 16:53:37] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:53:54] Stratum detected new block
+[2018-03-28 16:53:54] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:53:54] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:53:56] Stratum detected new block
+[2018-03-28 16:53:56] GPU #1: Tesla P100-PCIE-16GB, 1468 khash/s
+[2018-03-28 16:53:56] GPU #0: Tesla P100-PCIE-16GB, 1446 khash/s
+[2018-03-28 16:54:56] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 16:54:56] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:55:56] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:55:56] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:56:35] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:56:35] accepted: 54/54 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:56:37] Stratum detected new block
+[2018-03-28 16:56:37] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:56:37] GPU #1: Tesla P100-PCIE-16GB, 1465 khash/s
+[2018-03-28 16:56:41] Stratum detected new block
+[2018-03-28 16:56:41] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:56:41] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:56:45] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:56:45] accepted: 55/55 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:57:08] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:57:08] accepted: 56/56 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 16:57:45] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:58:08] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:58:23] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:58:23] accepted: 57/57 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:58:41] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 16:58:41] accepted: 58/58 (100.00%), 2915 khash/s (yay!!!)
+[2018-03-28 16:58:45] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:58:58] Stratum detected new block
+[2018-03-28 16:58:58] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 16:58:58] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 16:59:57] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 16:59:57] accepted: 59/59 (100.00%), 2917 khash/s (yay!!!)
+[2018-03-28 16:59:58] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 17:00:30] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 17:00:30] accepted: 60/60 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 17:00:58] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 17:01:02] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 17:01:02] accepted: 61/61 (100.00%), 2919 khash/s (yay!!!)
+[2018-03-28 17:01:04] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 17:01:04] accepted: 62/62 (100.00%), 2920 khash/s (yay!!!)
+[2018-03-28 17:01:52] Stratum detected new block
+[2018-03-28 17:01:52] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 17:01:52] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:01:57] Stratum detected new block
+[2018-03-28 17:01:57] GPU #0: Tesla P100-PCIE-16GB, 1440 khash/s
+[2018-03-28 17:01:57] GPU #1: Tesla P100-PCIE-16GB, 1468 khash/s
+[2018-03-28 17:02:46] Stratum detected new block
+[2018-03-28 17:02:46] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 17:02:46] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:02:50] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 17:02:50] accepted: 63/63 (100.00%), 2914 khash/s (yay!!!)
+[2018-03-28 17:03:03] Stratum detected new block
+[2018-03-28 17:03:03] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 17:03:03] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:03:09] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 17:03:09] accepted: 64/64 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 17:03:10] Stratum detected new block
+[2018-03-28 17:03:10] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 17:03:10] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:03:21] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 17:03:21] accepted: 65/65 (100.00%), 2916 khash/s (yay!!!)
+[2018-03-28 17:03:29] Stratum detected new block
+[2018-03-28 17:03:29] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:03:29] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 17:03:52] Stratum detected new block
+[2018-03-28 17:03:52] GPU #0: Tesla P100-PCIE-16GB, 1450 khash/s
+[2018-03-28 17:03:52] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:04:52] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 17:04:52] GPU #0: Tesla P100-PCIE-16GB, 1448 khash/s
+[2018-03-28 17:05:25] Stratum detected new block
+[2018-03-28 17:05:25] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:05:25] GPU #0: Tesla P100-PCIE-16GB, 1451 khash/s
+[2018-03-28 17:05:58] Stratum detected new block
+[2018-03-28 17:05:58] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:05:58] GPU #0: Tesla P100-PCIE-16GB, 1447 khash/s
+[2018-03-28 17:06:00] Stratum detected new block
+[2018-03-28 17:06:00] GPU #1: Tesla P100-PCIE-16GB, 1468 khash/s
+[2018-03-28 17:06:00] GPU #0: Tesla P100-PCIE-16GB, 1453 khash/s
+[2018-03-28 17:06:12] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 17:06:12] accepted: 66/66 (100.00%), 2920 khash/s (yay!!!)
+[2018-03-28 17:06:14] Stratum detected new block
+[2018-03-28 17:06:14] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:06:14] GPU #0: Tesla P100-PCIE-16GB, 1452 khash/s
+[2018-03-28 17:06:45] GPU #1: Tesla P100-PCIE-16GB, 1467 khash/s
+[2018-03-28 17:06:45] accepted: 67/67 (100.00%), 2918 khash/s (yay!!!)
+[2018-03-28 17:07:14] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+[2018-03-28 17:07:45] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:07:49] GPU #1: Tesla P100-PCIE-16GB, 1459 khash/s
+[2018-03-28 17:07:49] accepted: 68/68 (100.00%), 2909 khash/s (yay!!!)
+[2018-03-28 17:07:53] Stratum detected new block
+[2018-03-28 17:07:53] GPU #1: Tesla P100-PCIE-16GB, 1466 khash/s
+[2018-03-28 17:07:53] GPU #0: Tesla P100-PCIE-16GB, 1449 khash/s
+

@@ -1,0 +1,113 @@
+	   *** CudaMiner for nVidia GPUs by Christian Buchner ***
+	             This is version 2014-02-28 (beta)
+	based on pooler-cpuminer 2.3.2 (c) 2010 Jeff Garzik, 2012 pooler
+	    Cuda additions Copyright 2013,2014 Christian Buchner
+	  LTC donation address: LKS1WDKGED647msBQfLBHV3Ls8sveGncnm
+	  BTC donation address: 16hJF5mceSojnTD3ZTUDqdRhDyPJzoRakM
+	  YAC donation address: Y87sptDEcpLkLeAuex6qZioDbvy1qXZEj4
+==2825== NVPROF is profiling process 2825, command: ./cudaminer --algo=keccak -l T -C 2 -H 1 -o stratum+tcp://stratum.f2pool.com:8888 -O echoin.001:echo_f2pool97; --time-limit=60
+[2018-03-27 15:21:15] Starting Stratum on stratum+tcp://stratum.f2pool.com:8888
+[2018-03-27 15:21:15] NVML GPU monitoring is not available.
+[2018-03-27 15:21:15] 2 miner threads started, using 'keccak' algorithm.
+[2018-03-27 15:21:17] GPU #0: Tesla P100-PCIE-16GB with compute capability 6.0
+[2018-03-27 15:21:17] GPU #0: the 'T' kernel ignores the texture cache argument
+[2018-03-27 15:21:17] GPU #0: interactive: 0, tex-cache: 0 , single-alloc: 0
+[2018-03-27 15:21:17] GPU #0: 32 hashes / 4.0 MB per warp.
+[2018-03-27 15:21:17] GPU #1: Tesla P100-PCIE-16GB with compute capability 6.0
+[2018-03-27 15:21:17] GPU #1: the 'T' kernel ignores the texture cache argument
+[2018-03-27 15:21:17] GPU #1: interactive: 0, tex-cache: 0 , single-alloc: 0
+[2018-03-27 15:21:17] GPU #1: 32 hashes / 4.0 MB per warp.
+[2018-03-27 15:21:21] Stratum detected new block
+[2018-03-27 15:21:21] GPU #0: Given launch config 'T' does not validate.
+[2018-03-27 15:21:21] GPU #0: Performing auto-tuning (Patience...)
+[2018-03-27 15:21:21] GPU #0: maximum total warps (BxW): 3911
+[2018-03-27 15:21:21] GPU #1: Given launch config 'T' does not validate.
+[2018-03-27 15:21:21] GPU #1: Performing auto-tuning (Patience...)
+[2018-03-27 15:21:21] GPU #1: maximum total warps (BxW): 3911
+[2018-03-27 15:23:10] Stratum detected new block
+[2018-03-27 15:23:14] Stratum detected new block
+[2018-03-27 15:23:45] GPU #0: 863469613.26 hash/s with configuration T168x22
+[2018-03-27 15:23:45] GPU #0: using launch configuration T168x22
+[2018-03-27 15:23:45] GPU #0: Tesla P100-PCIE-16GB, 70149 khash/s
+[2018-03-27 15:23:45] GPU #1: 856618824.23 hash/s with configuration T167x22
+[2018-03-27 15:23:45] GPU #1: using launch configuration T167x22
+[2018-03-27 15:23:45] GPU #1: Tesla P100-PCIE-16GB, 70232 khash/s
+[2018-03-27 15:23:55] GPU #0: Tesla P100-PCIE-16GB, 209381 khash/s
+[2018-03-27 15:24:05] GPU #0: Tesla P100-PCIE-16GB, 209324 khash/s
+[2018-03-27 15:24:14] Stratum detected new block
+[2018-03-27 15:24:14] GPU #1: Tesla P100-PCIE-16GB, 57958 khash/s
+[2018-03-27 15:24:14] GPU #0: Tesla P100-PCIE-16GB, 208821 khash/s
+[2018-03-27 15:24:22] GPU #1: Tesla P100-PCIE-16GB, 208594 khash/s
+[2018-03-27 15:24:24] GPU #0: Tesla P100-PCIE-16GB, 209158 khash/s
+[2018-03-27 15:24:34] GPU #0: Tesla P100-PCIE-16GB, 209489 khash/s
+[2018-03-27 15:24:40] Stratum detected new block
+[2018-03-27 15:24:40] GPU #0: Tesla P100-PCIE-16GB, 209018 khash/s
+[2018-03-27 15:24:40] GPU #1: Tesla P100-PCIE-16GB, 208336 khash/s
+[2018-03-27 15:24:41] Stratum detected new block
+[2018-03-27 15:24:41] GPU #0: Tesla P100-PCIE-16GB, 209908 khash/s
+[2018-03-27 15:24:41] GPU #1: Tesla P100-PCIE-16GB, 206797 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 208098 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 209030 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 203321 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 204852 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 203405 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 208355 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 202230 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 210805 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 204334 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 208122 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 208023 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 207690 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 207187 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 210372 khash/s
+[2018-03-27 15:24:45] GPU #1: Tesla P100-PCIE-16GB, 203819 khash/s
+[2018-03-27 15:24:45] GPU #0: Tesla P100-PCIE-16GB, 210182 khash/s
+[2018-03-27 15:24:46] GPU #1: Tesla P100-PCIE-16GB, 206686 khash/s
+[2018-03-27 15:24:46] workio thread dead, waiting for workers...
+*** Error in `./cudaminer': double free or corruption (out): 0x00007fb97c931a60 ***
+*** Error in `./cudaminer': corrupted double-linked list: 0x00007fb9854ad770 ***
+======= Backtrace: =========
+======= Backtrace: =========
+/lib64/libc.so.6(+0x7baf5)[0x7fb9c8a76af5]
+/lib64/libc.so.6(+0x7c503)[0x7fb9c8a77503]
+/lib64/libc.so.6(+0x7c3e6)[0x7fb9c8a773e6]
+/usr/local/cuda-9.0/lib64/libcuinj64.so.9.0(+0x1d3f8f)[0x7fb9c3a74f8f/lib64/libcuda.so.1]
+/lib64/libcuda.so.1(/lib64/libpthread.so.0(+0x7dc5)[0x/lib64/libcuda.so.1(+0x1dd4c5)7fb9ca34edc5]
+/lib64/libcuda.so.1(+0x31e46a)[0x7fb9c474446a/lib64/libc.so.6]
+(/lib64/libcuda.so.1(+0x1ad729)[0x7fb9c45d3729]
+/lib64/libcuda.so.1(+0x1b0148)[0x7fb9c45d6148]
+==2825== Profiling application: ./cudaminer --algo=keccak -l T -C 2 -H 1 -o stratum+tcp://stratum.f2pool.com:8888 -O echoin.001:echo_f2pool97; --time-limit=60
+==2825== Profiling result:
+            Type  Time(%)      Time     Calls       Avg       Min       Max  Name
+ GPU activities:   98.56%  242.402s   3692802  65.641us  11.199us  168.93us  titan_crypto_hash(unsigned long*, unsigned int, unsigned int*, bool)
+                    1.34%  3.29780s   3692802     893ns     831ns  11.872us  [CUDA memset]
+                    0.10%  239.08ms    214558  1.1140us     864ns  13.311us  [CUDA memcpy DtoH]
+                    0.00%  69.855us        68  1.0270us     896ns  2.3040us  [CUDA memcpy HtoD]
+      API calls:   75.46%  225.849s   3506460  64.409us  2.1910us  2.8713ms  cudaDeviceSynchronize
+                   10.66%  31.8984s   3692802  8.6380us  7.0200us  5.6784ms  cudaLaunch
+                    7.19%  21.5070s   3692802  5.8240us  3.5120us  155.85ms  cudaMemsetAsync
+                    2.47%  7.38364s      8000  922.95us  19.557us  6.9833ms  cudaMalloc
+                    1.67%  5.00531s       614  8.1520ms  151.14us  2.42687s  cudaFree
+                    1.16%  3.47777s  14771208     235ns     160ns  1.3018ms  cudaSetupArgument
+                    0.73%  2.19767s    214558  10.242us  6.7920us  476.86us  cudaMemcpyAsync
+                    0.38%  1.12495s   3692802     304ns     201ns  578.17us  cudaConfigureCall
+                    0.26%  781.44ms    321831  2.4280us  1.1170us  464.51us  cudaStreamQuery
+                    0.01%  26.511ms    101910     260ns     153ns  709.32us  cudaGetLastError
+                    0.01%  18.567ms         4  4.6417ms  4.3611ms  5.0645ms  cudaHostAlloc
+                    0.00%  2.4452ms         4  611.31us  590.45us  642.58us  cudaStreamCreate
+                    0.00%  1.6665ms        68  24.506us  6.8250us  176.09us  cudaMemcpyToSymbol
+                    0.00%  1.0503ms         2  525.15us  419.90us  630.40us  cudaGetDeviceProperties
+                    0.00%  1.0418ms       188  5.5410us     275ns  219.17us  cuDeviceGetAttribute
+                    0.00%  898.25us         2  449.12us  445.10us  453.15us  cuDeviceTotalMem
+                    0.00%  95.734us         2  47.867us  42.363us  53.371us  cuDeviceGetName
+                    0.00%  13.205us         2  6.6020us  4.5980us  8.6070us  cudaSetDeviceFlags
+                    0.00%  12.660us         2  6.3300us  2.7330us  9.9270us  cudaDeviceSetCacheConfig
+                    0.00%  10.356us         4  2.5890us  1.0330us  5.6820us  cudaEventCreateWithFlags
+                    0.00%  9.2520us         2  4.6260us  4.2740us  4.9780us  cudaSetDevice
+                    0.00%  6.2580us         3  2.0860us     406ns  5.3030us  cuDeviceGetCount
+                    0.00%  5.8620us         2  2.9310us  2.5730us  3.2890us  cudaEventRecord
+                    0.00%  2.8770us         2  1.4380us     998ns  1.8790us  cudaDeviceSetSharedMemConfig
+                    0.00%  2.1650us         4     541ns     278ns     947ns  cuDeviceGet
+                    0.00%  1.8310us         1  1.8310us  1.8310us  1.8310us  cudaGetDeviceCount
+                    0.00%  1.5890us         1  1.5890us  1.5890us  1.5890us  cudaDriverGetVersion
+======== Error: Application received signal 134
